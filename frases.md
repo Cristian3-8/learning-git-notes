@@ -1,10 +1,7 @@
 # 💬 Frases sobre Git, GitHub y Desarrollo
 
-## Git
-- “Commit temprano, commit seguido.”
-
-## GitHub
-- “GitHub es el portafolio del desarrollador moderno.”
+## Git (2025-12-01)
+- “Git no es solo control de versiones, es una máquina del tiempo para tu código.”
 
 ---
 *Actualizado: 2025-12-06*
